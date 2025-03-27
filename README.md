@@ -1,5 +1,10 @@
-## Hi there 👋
-
+# Hi, I'm Erik! <br><a href="http:\\https://www.linkedin.com/in/erikendswithak/">Cybersecurity Professional</href><br>
+## <span style='font-size:100px;'>&#128193;</span> Cybersecurity Projects
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+</ul>
 <!--
 **barsANDtone/barsANDtone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
